@@ -1,0 +1,7 @@
+{
+  "name": "Gesture Snake",
+  "description": "A computer vision snake game where you control the snake with your index finger using MediaPipe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
